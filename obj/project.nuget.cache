@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "muLRkLw0eFsaCUDXHWyQ91At2rpIxHAqwBYp3DhIFz/QkTg1tu3lBoojbDZkY+0WOKDsmcGXF3ghzImA0hdUFQ==",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudioProj\\incomplete-ray-tracer3\\ray-tracer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beret\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-rc.2.23479.6\\microsoft.win32.systemevents.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\beret\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
